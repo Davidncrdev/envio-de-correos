@@ -15,7 +15,7 @@ smtp_password = "poKqy5-xebmox1332-wonvut"
 
 # Datos del correo
 remitente = "info@fyvestudio.pro"
-destinatario = "davidkabre25@gmail.com"
+destinatario = "nicolasaravena@fyvestudio.pro"
 asunto = "Presentación de FYVE Studio"
 
 # Leer el contenido HTML del archivo
