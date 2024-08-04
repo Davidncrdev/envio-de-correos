@@ -16,7 +16,7 @@ smtp_password = "poKqy5-xebmox1332-wonvut"
 # Datos del correo
 remitente = "info@fyvestudio.pro"
 destinatario = "nicolasaravena@fyvestudio.pro"
-asunto = "Presentación de FYVE Studio"
+asunto = "Descubre Cómo Fyve Studio Pro Puede Impulsar Tu Empresa"
 
 # Leer el contenido HTML del archivo
 cuerpo_del_correo_html = leer_archivo_html("presentacion_fyve_studio.html")
